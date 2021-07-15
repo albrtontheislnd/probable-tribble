@@ -1,0 +1,23 @@
+study,studytype,location,year,studyperiod,n,es,cil,ciu,risk_bias,studylbl,doi
+2,Regional,Brazil,2020,20-Apr,4151,0.0005,0.0001,0.0017,Low,"Mariangela Silveira, 2020",www.nature.com/articles/s41591-020-0992-3
+3,Regional,Brazil,2020,20-Apr,4501,0.0014,0.0005,0.0029,Low,"Mariangela Silveira, 2020",www.nature.com/articles/s41591-020-0992-3
+5,Regional,Brazil,2020,20-May,4500,0.0022,0.0011,0.0041,Low,"Mariangela Silveira, 2020",www.nature.com/articles/s41591-020-0992-3
+16,Regional,China,2020,20-Apr,9542,0.0692,0.0641,0.0743,Low,"Zhenyu He, 2020",www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00238-5/fulltext?dgcid=raven_jbs_etoc_email
+24,Local,Germany,2020,20-Jun,2203,0.12,0.104,0.14,Low,"Claudia Santos Hovener, 2020",dx.doi.org/10.2807/1560-7917.ES.2020.25.47.2001752
+28,National,India,2020,20-Jun,28000,0.0073,0.0034,0.0113,Low,"Manoj Murhekar, 2020",dx.doi.org/10.4103/ijmr.IJMR_3290_20
+29,Local,India,2020,20-Jul,2702,0.171,0.158,0.184,Low,"Anup Malani, 2020",dx.doi.org/10.1016/S2214-109X%2820%2930467-8
+30,Local,India,2020,20-Jul,12405,0.184,0.148,0.226,Low,"Sriram Selvaraju, 2020",dx.doi.org/10.3201/eid2702.203938
+35,National,India,2020,20-Sep,29082,0.066,0.058,0.074,Low,"Manoj V Murhekar, 2020",dx.doi.org/10.1016/S2214-109X(20)30544-1
+38,Regional,India,2020,20-Nov,6230,0.367,0.343,0.392,Low,"Muhammad Khan, 2020",papers.ssrn.com/sol3/papers.cfm?abstract_id=3820632
+39,Local,India,2020,20-Dec,9279,0.2942,0.2841,0.3042,Low,"Sudarshan Ramaswamy, 2020",web.archive.org/web/20210410213821/medical.advancedresearchpublications.com/index.php/Journal-CommunicableDiseases/article/view/536
+42,National,Iran (Islamic Republic of),2020,20-Jun,3530,0.171,0.146,0.195,Low,"Hossein Poustchi, 2020",dx.doi.org/10.1016/S1473-3099%2820%2930858-6
+47,National,Japan,2020,20-Jun,7950,0.001,0.0004,0.002,Low,"Takashi Yoshiyama, 2020",dx.doi.org/10.3201/eid2702.204088
+48,Local,Japan,2020,20-Jul,742,0.0123,0.0017,0.0228,Low,"Nobutoshi Nawa, 2020",onlinelibrary.wiley.com/doi/full/10.1002/jgf2.408
+51,National,Netherlands,2020,20-May,2637,0.028,0.021,0.037,Low,"Eric Vos, 2020",dx.doi.org/10.1136/jech-2020-215678
+52,National,Netherlands,2020,20-May,570,0.029,0.014,0.063,Low,"Eric Vos, 2020",dx.doi.org/10.1136/jech-2020-215678
+58,Local,Peru,2020,20-Jul,3212,0.208,0.172,0.235,Low,"Mary F Reyes Vega, 2020",www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00081-X/fulltext#%20
+71,Local,Switzerland,2020,20-Dec,4000,0.211,0.192,0.231,Low,"Silvia Stringhini, 2020",dx.doi.org/10.1016/S1473-3099(21)00054-2
+72,Local,The United Kingdom,2020,20-May,6635,0.0781,0.0717,0.0848,Low,"Ellen C Hughes, 2020",dx.doi.org/10.1093/infdis/jiaa788
+78,Local,United States of America,2020,20-May,669,0.0318,0.0149,0.0667,Low,"Kristina Bajema, 2020",dx.doi.org/10.1093/cid/ciaa1804
+80,Regional,United States of America,2020,20-May,1032,0.029,0.01,0.062,Low,"Philip A Chan, 2020",dx.doi.org/10.2105/AJPH.2020.306115
+84,Local,United States of America,2020,20-Aug,2979,0.113,0.081,0.132,Low,"Tim Bruckner, 2020",dx.doi.org/10.1038/s41598-021-82662-x
