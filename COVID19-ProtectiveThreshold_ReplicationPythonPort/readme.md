@@ -1,0 +1,1 @@
+### Python port from R codes for the article: Khoury, D.S., Cromer, D., Reynaldi, A. et al. Neutralizing antibody levels are highly predictive of immune protection from symptomatic SARS-CoV-2 infection. Nat Med 27, 1205–1211 (2021). https://doi.org/10.1038/s41591-021-01377-8
